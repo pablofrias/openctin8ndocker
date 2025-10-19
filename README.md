@@ -1,3 +1,6 @@
+# OpenCTI Docker deployment with N8N for agentic integration
+*** Use of this project is only for research purposes *** 
+
 # OpenCTI Docker deployment
 
 ## Documentation
